@@ -1,0 +1,50 @@
+.text {
+    padding: 100px 30px;
+    border: double rgba(255, 162, 0, 0.767) 10px;
+    background-image: url(../../assets/img/logoakatsuki.jpg);
+}
+
+.text p {
+    color: white;
+    max-width: 900px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    font-size: 50px;
+    line-height: 35px;
+}
+
+.background {
+    height: 500px;
+    width: 100%;
+}
+
+.title {
+    background-image: url('../../assets/img/image1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.one {
+    background-image: url('../../assets/img/minato.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.two {
+    background-image: url('../../assets/img/naruto.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.three {
+    background-image: url('../../assets/img/hokage.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.four {
+    background-image: url('../../assets/img/akatsuki.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
